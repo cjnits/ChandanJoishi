@@ -1,8 +1,6 @@
 ## Biosketch
 
-You can use the [editor on GitHub](https://github.com/cjnits/ChandanJoishi/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently a Project Research Scientist in the Department of Electrical Engineering, Indian Institute of Technology Bombay (IITB), India. I graduated with a Ph.D. in Electrical Engineering from IITB, India in 2020. I have also worked as a Visiting Scholar in the Department of Electrical and Computer Engineering, The Ohio-State University (OSU) from 2016-2018. My research interests are in the areas of semiconductor device electronics that could enable a new class of ultra-efficient high power electrical systems for next-generation technologies including electric cars, solar and wind farms, and data servers. I am a recipient of the "Excellence in Ph.D. research" award for the year 2018-2020 conferred by IITB, India and the "Global Partnership Grant" by the Institute of Materials Research, OSU, USA in 2016. 
 
 ### Markdown
 
